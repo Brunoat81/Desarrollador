@@ -4,7 +4,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
-public class Ejercicio4_2a {//no puedo encontrar la maner de ingresar por parametros sin que me de error en la sintaxis
+public class Ejercicio4_2a {//no puedo encontrar la manera de ingresar por parametros sin que me de error en la sintaxis
 
 	public static void main(String[] args) {Scanner scn = new Scanner (System.in);
     
