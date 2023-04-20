@@ -1,0 +1,17 @@
+participante,equipo1,ganaequipo1,empate,ganaequipo2,equipo2
+Mariana,Argentina,x,,,Uruguay
+Mariana,Brasil,,,x,Chile
+Mariana,Ecuador,,,x,Bolivia
+Mariana,Venezuela,x,,,Colombia
+Pedro,Argentina,,,x,Uruguay
+Pedro,Brasil,,x,,Chile
+Pedro,Ecuador,x,,,Bolivia
+Pedro,Venezuela,x,,,Colombia
+Mariana,Argentina,x,,,Colombia
+Mariana,Venezuela,x,,,Uruguay
+Mariana,Brasil,x,,,Bolivia
+Mariana,Ecuador,,x,,Chile
+Pedro,Argentina,x,,,Colombia
+Pedro,Venezuela,,,x,Uruguay
+Pedro,Brasil,x,,,Bolivia
+Pedro,Ecuador,x,,,Chile
